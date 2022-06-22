@@ -1,7 +1,7 @@
 opencv_python_headless==4.2.0.34
 streamlit==0.61.0
 torchvision==0.6.0
-numpy==1.18.1
+numpy==1.22.0
 matplotlib==3.2.1
 torch==1.5.0
 albumentations==0.4.5
